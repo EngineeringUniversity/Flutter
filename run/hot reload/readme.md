@@ -1,5 +1,5 @@
 ```
 device=chrome #linux
 
-flutter run --hot --device-id chrome
+flutter run --hot --device-id $device
 ```
